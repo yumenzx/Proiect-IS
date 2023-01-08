@@ -1,0 +1,54 @@
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\appsettings.json
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\Proiect IS.exe
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\Proiect IS.deps.json
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\Proiect IS.runtimeconfig.json
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\Proiect IS.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\Proiect IS.pdb
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\Proiect IS.csproj.AssemblyReference.cache
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\Proiect IS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\Proiect IS.AssemblyInfoInputs.cache
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\Proiect IS.AssemblyInfo.cs
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\Proiect IS.csproj.CoreCompileInputs.cache
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\Proiect IS.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\Proiect IS.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\staticwebassets\msbuild.Proiect IS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\staticwebassets\msbuild.build.Proiect IS.props
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Proiect IS.props
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Proiect IS.props
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\scopedcss\bundle\Proiect IS.styles.css
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\Proiect IS.csproj.CopyComplete
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\Proiect IS.dll
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\refint\Proiect IS.dll
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\Proiect IS.pdb
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\Proiect IS.genruntimeconfig.cache
+D:\Projects\IS\Proiect IS\Proiect IS\obj\Debug\net6.0\ref\Proiect IS.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\MySql.Data.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\ZstdNet.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\IS\Proiect IS\Proiect IS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

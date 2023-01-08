@@ -1,0 +1,35 @@
+.backgroundStyle {
+    background-image: url('https://wallpapercave.com/wp/wp9579853.jpg');
+    background-size: cover;
+    height: 650px;
+    color: white;
+}
+
+.registerBackground {
+    background-color: #ddd;
+    height: 650px;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 60%;
+    padding: 70px;
+    height: auto; /* Should be removed. Only for demonstration */
+    background-color: rgba(0,0,0,0.5);
+    color: #FFF;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+  }
